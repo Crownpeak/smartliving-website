@@ -1,4 +1,4 @@
-<a href="http://www.crownpeak.com" target="_blank">![Crownpeak Logo](images/logo/crownpeak-logo.png?raw=true "Crownpeak Logo")</a>
+<a href="http://www.crownpeak.com" target="_blank">![Crownpeak Logo](./images/logo/crownpeak-logo.png "Crownpeak Logo")</a>
 
 # SmartLiving Website Documentation
 The SmartLiving Website ("SmartLiving") is a reference implementation for a static website generation. It serves as a guideline and offers best practices for developers and uses the Tailwind CSS framework.
